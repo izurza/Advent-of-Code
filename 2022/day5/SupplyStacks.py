@@ -1,5 +1,4 @@
-# input = open("day5/inputtest.txt", "r")
-input = open("day5/input.txt", "r")
+input = open("inputs/day5.in", "r")
 stateandmoving = input.read().split('\n\n')
 
 

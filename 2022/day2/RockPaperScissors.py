@@ -1,4 +1,4 @@
-input = open("day2/input.txt", "r")
+input = open("inputs/day2.in", "r")
 #A Rock
 #B Paper
 #C Scissors

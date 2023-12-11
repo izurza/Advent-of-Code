@@ -1,4 +1,4 @@
-input = open("day1/input.txt", "r")
+input = open("inputs/day1.in", "r")
 calories = input.read().split("\n\n")
 for e in calories:
     t = (e.split())

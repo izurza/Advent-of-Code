@@ -1,4 +1,4 @@
-input = open("day3/input.txt", "r")
+input = open("inputs/day3.in", "r")
 
 r = input.read().split('\n')
 repeated=False

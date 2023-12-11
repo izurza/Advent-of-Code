@@ -2,8 +2,7 @@ from collections import defaultdict
 
 #learned from Jonathan Paulson
 
-input = open("day7/inputtest.txt", "r")
-# input = open("day7/input.txt", "r")
+input = open("inputs/day7.in", "r")
 cl = input.read().split("\n")
 SZ=defaultdict(int)
 path=[]

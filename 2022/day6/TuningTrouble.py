@@ -1,5 +1,5 @@
 # input = open("day6/inputtest.txt", "r")
-input = open("day6/input.txt", "r")
+input = open("inputs/day6.in", "r")
 b = input.read().strip() 
 
 firstS, firstM=False,False

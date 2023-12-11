@@ -1,5 +1,4 @@
-# input = open("day4/inputtest.txt", "r")
-input = open("day4/input.txt", "r")
+input = open("inputs/day4.in", "r")
 eh = input.read().split('\n')
 overlap1=0
 overlap2=0

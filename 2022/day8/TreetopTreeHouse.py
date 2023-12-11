@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
-input = open("day8/inputtest.txt", "r")
-# input = open("day8/input.txt", "r")
+input = open("inputs/day8.in", "r")
+
 
 raw =[]
 with open('day8/inputtest.txt',"r") as f:
